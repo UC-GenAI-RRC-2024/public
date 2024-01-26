@@ -13,7 +13,7 @@ Ollama is an open-source LLM model manager. It provides a unified front-end for 
 -	Download or run curl https://ollama.ai/install.sh | sh
 
 ## Run:
--	ollama run '''<MODEL_NAME >:<TAGS>'''
+-	ollama run ''' <MODEL_NAME >:<TAGS> '''
 -	Example; to pass a tag calling the 70 billion parameter llama2 model:	ollama run llama2:70b
 
 ## Pull a model:
